@@ -9,6 +9,8 @@ The easiest way to use the conversion files is to use `FormatTools.py` which cal
 
 ## Usage :
 
-`python3 FormatTools.py convert input output`
+`python3 FormatTools.py convert input output`.
 
-Note than the single tools can be used as follow : `python3 script.py input output`
+Note than the single tools can be used as follow : `python3 script.py input output`.
+
+The output is a new file in the new format.
